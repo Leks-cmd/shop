@@ -64,6 +64,8 @@ El tema hijo en blanco no tiene funcionalidad propia, y si deseas aprender más 
 - ![#9e2a2b](https://placehold.co/15x15/9e2a2b/9e2a2b.png) `#9e2a2b`
 - ![#540b0e](https://placehold.co/15x15/540b0e/540b0e.png) `#540b0e`
 
+## Capturas de web completas
+
 ![Captura de página completa](./assets/full-web.png)
 
 ![Captura de la tienda de productos](./assets/full-store.png)
