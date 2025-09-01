@@ -6,15 +6,27 @@ En este proyecto se realizo una tienda online para vender comida para las mascot
 
 ![Preview de productos en la tienda](./assets/preview-shop.png)
 
+En esta sección usamos un bloque en el cual se muestran los productos más nuevos, con su precio o precios si tiene varios segun su variante. Además con CSS se aplico un pequeño efecto "hover" en el cual al pasar por los links, se engruesa la letra y cambia de color.
+
 ![Categorias de productos](./assets/categorias.png)
+
+Al entrar en la tienda podemos ver las categorias de cada sección de los alimentos, en este caso las categorias para el alimento para perros.
 
 ![Compra de producto](./assets/shop.png)
 
+Al seleccionar un producto podemos ver su precio y una descripción de dicho producto.
+
 ![Notificación de producto agregado al carrito](./assets/agregado.png)
+
+Si decidimos comprar el producto nos notifica que el producto fue agregado al carrito.
 
 ![Preview de producto en carrito](./assets/preview-carrito.png)
 
+si nos posicionamos sobre el carrito de compra podemos ver las opciones que nos da.
+
 ![Carrito para finalizar compra](./assets/carrito.png)
+
+Sección del carrito de compra para finalizar la compra.
 
 ![Datos para finalizar la compra](./assets/finalizar-compra.png)
 
