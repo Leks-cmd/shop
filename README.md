@@ -44,6 +44,18 @@ Luego usamos el plugin "Cookie Notice & Compliance for GDPR/CCPA" para que al en
 
 Por ultimo agregamos el plugin de "Yoast SEO" para que nos ayude un poco con el tema de mejorar el SEO de nuestra tienda online. En este caso al ser un proyecto en local con varias limitaciones como bloquear los robots de google y prohibir la indexación de nuestra web a los buscadores, el SEO nos marca dichas faltas.
 
+Todo este proyecto es realizado bajo el tema hijo Storefront
+
+Este tema hijo está diseñado para ser utilizado como un tema inicial para el tema StoreFront de WooCommerce, el cual puedes descargar gratis a continuación.
+
+* [Download WooCommerce StoreFront Theme](https://wordpress.org/themes/storefront/)
+* [StoreFront Documentation](http://docs.woothemes.com/documentation/themes/storefront/)
+* [StoreFront Extensions](http://www.woothemes.com/product-category/storefront-extensions/)
+
+El tema hijo en blanco no tiene funcionalidad propia, y si deseas aprender más sobre los temas hijo en WordPress, consulta la documentación a continuación.
+
+* [WordPress Child Themes](https://codex.wordpress.org/Child_Themes)
+
 ## Paleta de colores
 
 - #335c67
