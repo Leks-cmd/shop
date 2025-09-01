@@ -63,3 +63,7 @@ El tema hijo en blanco no tiene funcionalidad propia, y si deseas aprender más 
 - #e09f3e
 - #9e2a2b
 - #540b0e
+
+![Captura de página completa](./assets/full-web.png)
+
+![Captura de la tienda de productos](./assets/full-store.png)
