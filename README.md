@@ -58,11 +58,11 @@ El tema hijo en blanco no tiene funcionalidad propia, y si deseas aprender más 
 
 ## Paleta de colores
 
-- #335c67
-- #fff3b0
-- #e09f3e
-- #9e2a2b
-- #540b0e
+- `#335c67`
+- `#fff3b0`
+- `#e09f3e`
+- `#9e2a2b`
+- `#540b0e`
 
 ![Captura de página completa](./assets/full-web.png)
 
