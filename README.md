@@ -58,13 +58,11 @@ El tema hijo en blanco no tiene funcionalidad propia, y si deseas aprender más 
 
 ## Paleta de colores
 
-- ![#335c67](https://via.placeholder.com/15/335c67/000000.png?text=+) `#335c67`
-- `#fff3b0`
-- `#e09f3e`
-- `#9e2a2b`
-- `#540b0e`
-
-`![#000000](https://via.placeholder.com/15/000000/000000?text=+) #000000`
+- ![#335c67](https://placehold.co/15x15/335c67/335c67.png) `#335c67`
+- ![#fff3b0](https://placehold.co/15x15/fff3b0/fff3b0.png) `#fff3b0`
+- ![#e09f3e](https://placehold.co/15x15/e09f3e/e09f3e.png) `#e09f3e`
+- ![#9e2a2b](https://placehold.co/15x15/9e2a2b/9e2a2b.png) `#9e2a2b`
+- ![#540b0e](https://placehold.co/15x15/540b0e/540b0e.png) `#540b0e`
 
 ![Captura de página completa](./assets/full-web.png)
 
