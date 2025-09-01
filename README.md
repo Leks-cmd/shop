@@ -64,7 +64,7 @@ El tema hijo en blanco no tiene funcionalidad propia, y si deseas aprender más 
 - `#9e2a2b`
 - `#540b0e`
 
-![#000000](https://via.placeholder.com/15/000000/000000?text=+) #000000
+`![#000000](https://via.placeholder.com/15/000000/000000?text=+) #000000`
 
 ![Captura de página completa](./assets/full-web.png)
 
