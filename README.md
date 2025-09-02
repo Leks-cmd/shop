@@ -32,6 +32,8 @@ Sección del carrito de compra para finalizar la compra.
 
 Luego con el plugin de WooCommerce configuramos para tener la página de tienda enlazada con WooCommerce, además de manera automatica crea las página de "carrito" y la configuración para el tema de los págos. Por mi parte le agregue los valores de IVE a la hora de calcular los precios.
 
+Se recomienda para un trabajo más eficiente usar archivos `CSV` a la hora de cargar los productos en la tienda, para subir por lote.
+
 ![Preview de cookies](./assets/cookies.png)
 
 ![Plugin de cookies](./assets/plugin-cookies.png)
